@@ -6,7 +6,7 @@
 
 ## Description
 
-_This project comes from teamtreehouse.com. The program uses array methods join(), includes(), and indexOf(), along with else if statements to check to see if the user's input prompt (search) matches the inventory list (array of product items). This allows the user to check to see if a product is available or not. If it is available, the user will be told what number it is placed within the product list. If it is not available, the user will be informed. Whatever the case, the message is dynamically inserted into the webpage depending upon the user's input.
+_This project comes from teamtreehouse.com. The program uses array methods join(), includes(), and indexOf(), along with else if statements to check to see if the user's input prompt (search) matches the inventory list (array of product items). This allows the user to check to see if a product is available or not. If it is available, the user will be told what number it is placed within the product list. If it is not available, the user will be informed. Whatever the case, the message is dynamically inserted into the webpage depending upon the user's input._
 
 ## Setup/Installation Requirements
 
