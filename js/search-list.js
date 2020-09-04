@@ -12,3 +12,5 @@ if ( !search ) {
 } else {
   message = `Sorry, we do not have <strong>${search}</strong>.`
 }
+
+document.querySelector('main').innerHTML = `<p>${message}</p>`;
